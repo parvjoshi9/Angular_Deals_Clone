@@ -1,0 +1,94 @@
+{
+  "id": "140892",
+  "name": "Angular Deal's Clone",
+  "url": "https:/google.com",
+  "description": "Jira Application build by Angular and ng-Zorro",
+  "category": "Software",
+  "createdAt": "2023-06-12T16:00:00.000Z",
+  "updatedAt": "2023-06-13T16:00:00.000Z",
+  "users": [
+    {
+      "id": "d65047e5-f4cf-4caa-9a38-6073dcbab7d1",
+      "name": "Parv Joshi",
+      "avatarUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTq1wChk0SuMv8vvzoUTjcUlRv6rCBFFEb8Vg&usqp=CAU.png",
+      "projectId": "140892"
+    },
+    {
+      "id": "7ac265f9-b9ac-443f-a2b2-795682e579a4",
+      "name": "Abhi Patel",
+      "avatarUrl": "https://res.cloudinary.com/dvujyxh7e/image/upload/c_scale,w_48/v1592405732/ironman_c3jrbc.jpg",
+      "projectId": "140892"
+    },
+    {
+      "id": "94502aad-c97f-43e1-a9d1-28cf3e4937a7",
+      "name": "Sujal Lakhani",
+      "avatarUrl": "https://res.cloudinary.com/dvujyxh7e/image/upload/c_scale,w_48/v1592405732/captain_e8s9nk.jpg",
+      "projectId": "140892"
+    },
+    {
+      "id": "610451aa-10c8-4d7e-9363-311357c0b0dd",
+      "name": "Divyesh",
+      "avatarUrl": "https://res.cloudinary.com/dvujyxh7e/image/upload/c_scale,w_48/v1592405731/thor_juqwzf.jpg",
+      "projectId": "140892"
+    },
+    {
+      "id": "081ccaa1-5595-4621-8074-ede4927e67b0",
+      "name": "Kairav",
+      "avatarUrl": "https://res.cloudinary.com/dvujyxh7e/image/upload/c_scale,w_48/v1592405731/spiderman_zlrtx0.jpg",
+      "projectId": "140892"
+    }
+  ],
+  "issues": [
+    {
+      "description": "<p>Hey team! this is the new issue that hase generated in our company,make sure we all work together to overcome this issue, i believe we can do that we can solve any issue on earth.</p>",
+      "id": "6527",
+      "priority": "Medium",
+      "reporterId": "d65047e5-f4cf-4caa-9a38-6073dcbab7d1",
+      "status": "Done",
+      "title": "First issue-done",
+      "type": "pipeline",
+      "updatedAt": "2023-08-27T14:23:38.183Z",
+      "userIds": ["d65047e5-f4cf-4caa-9a38-6073dcbab7d1"],
+      "listPosition": 1
+    },
+    {
+      "type": "Story",
+      "priority": "Medium",
+      "title": "Deal issues",
+      "description": "<p>this is the deal issue that we have came across ,make sure we all remove this issues before our client face any inconvience in their dealing.</p>",
+      "reporterId": "d65047e5-f4cf-4caa-9a38-6073dcbab7d1",
+      "userIds": ["d65047e5-f4cf-4caa-9a38-6073dcbab7d1"],
+      "id": "73",
+      "status": "InProgress",
+      "createdAt": "2023-10-26T15:13:08.070Z",
+      "updatedAt": "2023-10-26T15:13:10.418Z",
+      "listPosition": 2
+    },
+    {
+      "type": "Story",
+      "priority": "Highest",
+      "title": "Deal is in backlog",
+      "description": "<p>Deal is in baclog !!! lets work to get this deal in for development stage.</p>",
+      "reporterId": "d65047e5-f4cf-4caa-9a38-6073dcbab7d1",
+      "userIds": ["d65047e5-f4cf-4caa-9a38-6073dcbab7d1"],
+      "id": "2021",
+      "status": "Backlog",
+      "createdAt": "2021-04-28T14:56:55.049Z",
+      "updatedAt": "2021-04-28T14:56:57.748Z",
+      "listPosition": 1
+    },
+    {
+      "type": "Story",
+      "priority": "Highest",
+      "title": "Deal is for development",
+      "description": "<p>Deal is solved from backlog and now its ready for the development.</p>",
+      "reporterId": "d65047e5-f4cf-4caa-9a38-6073dcbab7d1",
+      "userIds": ["d65047e5-f4cf-4caa-9a38-6073dcbab7d1"],
+      "id": "2023",
+      "status": "Done",
+      "createdAt": "2023-12-19T03:00:00.000Z",
+      "updatedAt": "2023-12-19T03:00:00.000Z",
+      "listPosition": 1
+    }
+  ]
+}
